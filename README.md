@@ -2,6 +2,8 @@
 
 A production-ready web application that fetches movie information from IMDb, gathers audience reviews, performs AI-powered sentiment analysis, and displays comprehensive insights in a beautiful, modern UI.
 
+production link : https://movie-insighter.netlify.app/
+
 ![Next.js](https://img.shields.io/badge/Next.js-16.1-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38bdf8)
